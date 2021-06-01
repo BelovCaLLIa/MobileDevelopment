@@ -24,7 +24,7 @@ import com.yandex.runtime.image.ImageProvider;
 public class MainActivity extends AppCompatActivity implements UserLocationObjectListener  {
 
     private MapView mapView;
-    private final String MAPKIT_API_KEY = "7ca81459-2330-4f32-84f0-ea30dad6f494";
+    private final String MAPKIT_API_KEY = "7ca81459-****-****-****-ea30dad6f494";
 
     private static final int REQUEST_CODE_PERMISSION = 100;
     private UserLocationLayer userLocationLayer;
